@@ -6,7 +6,7 @@ Este é um projeto simples em React que demonstra um card de filme que pode ser 
 
 ## Demonstração 🎥
 
-Insira um gif ou um link de alguma demonstração
+![Demonstração do Projeto](https://github.com/LauraBarauna/MovieCards/blob/main/src/assets/images/movie-cards.gif)
 
 
 ## Aprendizados 📚
