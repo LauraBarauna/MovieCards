@@ -23,6 +23,12 @@ Apesar das dificuldades iniciais, buscar ajuda na documentação e em recursos o
 
 Estou animada para voltar e implementar essas melhorias no futuro!
 
+## Design no Figma 🎨
+O design deste projeto foi criado por mim, no Figma, uma ferramenta de design colaborativo baseada na web. Utilizei o Figma para prototipar a interface do usuário, definir estilos visuais e organizar componentes antes de iniciar o desenvolvimento no React.
+
+[Link do Projeto](https://www.figma.com/design/l25qSB2ZRalgYqv1UWM3jT/Movie-Cards?node-id=0-1&t=2p3vJ843TX59GVsV-1)
+
+
 ### Autores 🧑‍💻
 
 - [@LauraBarauna](https://github.com/LauraBarauna)
