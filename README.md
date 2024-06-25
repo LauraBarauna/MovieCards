@@ -3,9 +3,6 @@
 
 Este é um projeto simples em React que demonstra um card de filme que pode ser alterado ao clicar em um botão.
 
-
-## Demonstração 🎥
-
 ![Demonstração do Projeto](https://github.com/LauraBarauna/MovieCards/blob/main/src/assets/images/demonstracao-gif.gif)
 
 
@@ -18,7 +15,7 @@ Neste projeto, desafiei meus conhecimentos em React e aprimorei minhas habilidad
 Apesar das dificuldades iniciais, buscar ajuda na documentação e em recursos online foi crucial para superar os desafios.
 
 
-## Melhorias Futuras 🔮
+### Melhorias Futuras 🔮
 
 - Integração com banco de dados para armazenar e exibir uma lista dinâmica de filmes.
 - Refatoração do código para melhorar a legibilidade e a manutenibilidade.
@@ -26,18 +23,18 @@ Apesar das dificuldades iniciais, buscar ajuda na documentação e em recursos o
 
 Estou animada para voltar e implementar essas melhorias no futuro!
 
-## Autores 🧑‍💻
+### Autores 🧑‍💻
 
 - [@LauraBarauna](https://github.com/LauraBarauna)
 
 
-## Stack utilizada 🛠️
+### Stack utilizada 🛠️
 
 **Front-end:** React
 
 
 
-## Como Executar ▶️
+### Como Executar ▶️
 
 Para executar este projeto localmente, siga os passos abaixo:
 
